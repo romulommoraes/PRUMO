@@ -1,0 +1,1 @@
+Pré-compilação estática de demonstração. Abra usando um servidor HTTP (ex.: python -m http.server 8000 nesta pasta); acesso via file:// pode ser bloqueado pelo navegador. Para desenvolvimento use Vite no diretório principal.
